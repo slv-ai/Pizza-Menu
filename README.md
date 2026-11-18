@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Pizza Menu - React App
 
+![Split Bill App Screenshot](./pizza menu.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
